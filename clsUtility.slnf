@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\clsUtil\\clsUtil.slnx",
+    "projects": [
+      "clsUtil\\clsUtil.vcxproj"
+    ]
+  }
+}
